@@ -1,0 +1,19 @@
+{
+  "name": "15.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kasia Ciucias",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
